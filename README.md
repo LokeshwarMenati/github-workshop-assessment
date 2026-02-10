@@ -5,7 +5,7 @@
 **Workshop Date:** 2026-02-10
 
 ## Project Description
-This repository is created for GitHub workshop practice. (Modified in branch-a)
+This repository is created for GitHub workshop practice. (Merged from branch-a and branch-b)
 
 ## How to Run
 1. Clone the repository
