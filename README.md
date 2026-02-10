@@ -15,3 +15,6 @@ This repository is created for GitHub workshop practice. (Merged from branch-a a
 ## Folder Structure
 - `README.md` - Main documentation file
 - `intro.txt` - Personal information file
+- `TASK2_FORKING_GUIDE.md` - Forking and pull request workflow guide
+- `TASK4_GIT_COMMANDS_GUIDE.md` - Git commands and merge conflict resolution guide
+- `WORKSHOP_SUMMARY.md` - Complete workshop assessment summary
